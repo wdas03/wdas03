@@ -1,5 +1,7 @@
 ### Hello! 👋
 
+![image](https://cdn.wallpapersafari.com/56/62/hnu7Bg.jpg)
+
 - 💻 I'm broadly interested in applied AI, computational medicine, and building productivity tools.
 - 🔭 I’m currently working on various projects in applied AI in healthcare and B2B SaaS.
 - 🌱 I’m currently learning how to read and write Hiragana and Kanji.
