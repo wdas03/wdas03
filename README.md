@@ -2,8 +2,6 @@
 
 <!-- ![image](https://cdn.wallpapersafari.com/56/62/hnu7Bg.jpg) -->
 
-- 💻 Applied AI, computational medicine, and building productivity tools.
-
 <!--
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
